@@ -1,0 +1,47 @@
+EUROPA 1400 — FRONTY I PROWINCJE 2.0
+14 listopada 2026
+
+URUCHOMIENIE
+1. Rozpakuj całe archiwum ZIP.
+2. Otwórz GRA.html w aktualnym Firefox, Chrome lub Edge.
+   Plik zawiera mapę, kod i style. Nie wymaga instalowania bibliotek,
+   dostępu do internetu ani uruchamiania serwera.
+3. Wybierz państwo. Gra zaczyna na pauzie; Spacja uruchamia czas.
+
+Plik GRA.html jest gotową wersją samodzielną. index.html służy do pracy
+nad modułami: uruchom "python serve.py" (Windows: "py -3 serve.py")
+i otwórz adres wypisany w terminalu. Można podać port: python serve.py 8080.
+Po edycji źródeł odśwież wersję offline: node tools/build_portable.mjs.
+
+STEROWANIE
+LPM na znaczniku lub karcie — wybór armii.
+Shift + LPM — dodanie armii; Shift + przeciągnięcie — zaznaczenie grupy.
+PPM na prowincji — ruch lub atak. Wcześniej wypowiedz wojnę w dyplomacji.
+Shift + PPM — dopisanie punktu docelowego do kolejki.
+Ctrl + Alt + PPM — wsparcie sąsiedniego ataku, bez zajmowania prowincji.
+H — zatrzymanie rozkazów. A — wszystkie armie. F — wycentrowanie armii.
+S — podział stojącej armii. C — połączenie stojących armii.
+1–9 / Tab — wybór kolejnych armii.
+Spacja — pauza. M — tryb polityczny / terenowy / dyplomatyczny.
+D — dyplomacja. Esc — zamknięcie panelu lub okna.
+Kółko, +, - — przybliżenie pod kursorem. 0 — cała mapa.
+Przeciągnięcie mapy bez Shift — przesuwanie widoku.
+
+ZASADY ZAJMOWANIA TERENU
+Niebronioną prowincję zajmuje armia, która do niej wejdzie. W przypadku
+obrony najpierw toczy się bitwa z sąsiedniej prowincji, a po jej wygraniu
+następuje marsz do celu. Wsparcie walczy, ale nie wchodzi do celu.
+
+Kontrola pozostaje po odejściu wojsk. Można ją odzyskać własną lub
+sojuszniczą armią. Traktat zmienia właściciela; biały pokój przywraca
+własność i kontrolę sprzed wojny. Forty wzmacniają broniącą się armię,
+lecz pusta twierdza nie uruchamia dawnego wielomiesięcznego oblężenia.
+
+Zielony pasek jednostki oznacza morale, złoty — stan osobowy.
+Wykrzyknik oznacza brak zaopatrzenia, znak zegara — mobilizację.
+Odcięcie drogi do zaplecza powoduje straty. Przegrana armia wycofuje się
+na przyjazne sąsiednie pole; bez dostępnego wyjścia kapituluje.
+
+ZMIANY I TESTY
+Szczegóły napraw, zakres sprawdzenia oraz pozostałe ograniczenia opisano
+w RAPORT_ZMIAN.txt. Źródła, testy i narzędzia znajdują się w archiwum.

@@ -1,0 +1,2158 @@
+[
+  {
+    "province": 1,
+    "name": "Korsyka I",
+    "from": "Holy Roman Empire",
+    "to": "Corsica",
+    "source": "Corsica"
+  },
+  {
+    "province": 9,
+    "name": "Ronda",
+    "from": "Castile",
+    "to": "Granada",
+    "source": "Granada"
+  },
+  {
+    "province": 21,
+    "name": "Bejlik Aydin XXI",
+    "from": "Ottomans",
+    "to": "Aydin",
+    "source": "Beylik of Aydin"
+  },
+  {
+    "province": 22,
+    "name": "Bejlik Aydin XXI B",
+    "from": "Ottomans",
+    "to": "Aydin",
+    "source": "Beylik of Aydin"
+  },
+  {
+    "province": 23,
+    "name": "Bejlik Aydin XXII",
+    "from": "Ottomans",
+    "to": "Aydin",
+    "source": "Beylik of Aydin"
+  },
+  {
+    "province": 35,
+    "name": "Teruel B",
+    "from": "Castile",
+    "to": "Aragon",
+    "source": "Aragón"
+  },
+  {
+    "province": 36,
+    "name": "Walencja",
+    "from": "Castile",
+    "to": "Aragon",
+    "source": "Aragón"
+  },
+  {
+    "province": 37,
+    "name": "Aragonia XXXIII",
+    "from": "Granada",
+    "to": "Aragon",
+    "source": "Aragón"
+  },
+  {
+    "province": 38,
+    "name": "Sułtanat Seldżucki XXXIV",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 40,
+    "name": "Sułtanat Seldżucki XXXIV C",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 41,
+    "name": "Sułtanat Seldżucki XXXIV D",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 42,
+    "name": "Sułtanat Seldżucki XXXIV E",
+    "from": "Trebizond",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 43,
+    "name": "Sułtanat Seldżucki XXXIV F",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 44,
+    "name": "Sułtanat Seldżucki XXXIV G",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 45,
+    "name": "Sułtanat Seldżucki XXXIV H",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 46,
+    "name": "Sułtanat Seldżucki XXXIV I",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 47,
+    "name": "Sułtanat Seldżucki XXXIV J",
+    "from": "Trebizond",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 48,
+    "name": "Sułtanat Seldżucki XXXIV K",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 49,
+    "name": "Sułtanat Seldżucki XXXIV L",
+    "from": "Trebizond",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 50,
+    "name": "Sułtanat Seldżucki XXXIV M",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 51,
+    "name": "Sułtanat Seldżucki XXXIV N",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 52,
+    "name": "Sułtanat Seldżucki XXXV",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 53,
+    "name": "Sułtanat Seldżucki XXXVI",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 54,
+    "name": "Sułtanat Seldżucki XXXVII",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 55,
+    "name": "Sułtanat Seldżucki XXXVIII",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 56,
+    "name": "Sułtanat Seldżucki XXXIX",
+    "from": "Ottomans",
+    "to": "Seljuk Caliphate",
+    "source": "Seljuk Caliphate"
+  },
+  {
+    "province": 63,
+    "name": "Asturia B",
+    "from": "France",
+    "to": "Castile",
+    "source": "Castile"
+  },
+  {
+    "province": 64,
+    "name": "Biskaja",
+    "from": "France",
+    "to": "Castile",
+    "source": "Castile"
+  },
+  {
+    "province": 67,
+    "name": "León",
+    "from": "Portugal",
+    "to": "Castile",
+    "source": "Castile"
+  },
+  {
+    "province": 73,
+    "name": "Murcja B",
+    "from": "Granada",
+    "to": "Castile",
+    "source": "Castile"
+  },
+  {
+    "province": 74,
+    "name": "Andaluzja",
+    "from": "Portugal",
+    "to": "Castile",
+    "source": "Castile"
+  },
+  {
+    "province": 81,
+    "name": "Królestwo Węgier X",
+    "from": "Poland",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 85,
+    "name": "Królestwo Węgier XIV",
+    "from": "Moldavia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 86,
+    "name": "Królestwo Węgier XIV B",
+    "from": "Moldavia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 87,
+    "name": "Królestwo Węgier XIV C",
+    "from": "Moldavia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 88,
+    "name": "Królestwo Węgier XIV D",
+    "from": "Moldavia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 89,
+    "name": "Królestwo Węgier XIV E",
+    "from": "Moldavia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 90,
+    "name": "Królestwo Węgier XIV F",
+    "from": "Moldavia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 91,
+    "name": "Królestwo Węgier XIV G",
+    "from": "Moldavia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 92,
+    "name": "Królestwo Węgier XIV H",
+    "from": "Moldavia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 98,
+    "name": "Bihor",
+    "from": "Wallachia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 101,
+    "name": "Chorwacja",
+    "from": "Bosnia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 102,
+    "name": "Królestwo Węgier XXIII",
+    "from": "Serbia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 103,
+    "name": "Dalmacja",
+    "from": "Bosnia",
+    "to": "Hungary",
+    "source": "Kingdom of Hungary"
+  },
+  {
+    "province": 122,
+    "name": "Estonia",
+    "from": "Novgorod",
+    "to": "Teutonic Order",
+    "source": "Teutonic Knights"
+  },
+  {
+    "province": 123,
+    "name": "Estonia B",
+    "from": "Holy Roman Empire",
+    "to": "Teutonic Order",
+    "source": "Teutonic Knights"
+  },
+  {
+    "province": 124,
+    "name": "Inflanty",
+    "from": "Lithuania",
+    "to": "Teutonic Order",
+    "source": "Teutonic Knights"
+  },
+  {
+    "province": 125,
+    "name": "Inflanty B",
+    "from": "Holy Roman Empire",
+    "to": "Teutonic Order",
+    "source": "Teutonic Knights"
+  },
+  {
+    "province": 126,
+    "name": "Wironia",
+    "from": "Lithuania",
+    "to": "Teutonic Order",
+    "source": "Teutonic Knights"
+  },
+  {
+    "province": 127,
+    "name": "Semigalia",
+    "from": "Lithuania",
+    "to": "Teutonic Order",
+    "source": "Teutonic Knights"
+  },
+  {
+    "province": 161,
+    "name": "Delfinat",
+    "from": "Holy Roman Empire",
+    "to": "France",
+    "source": "France"
+  },
+  {
+    "province": 163,
+    "name": "Francja XVII",
+    "from": "Holy Roman Empire",
+    "to": "France",
+    "source": "France"
+  },
+  {
+    "province": 166,
+    "name": "Francja XIX",
+    "from": "Aragon",
+    "to": "France",
+    "source": "France"
+  },
+  {
+    "province": 186,
+    "name": "Cesarstwo Bizantyjskie XXXIII",
+    "from": "Holy Roman Empire",
+    "to": "Byzantium",
+    "source": "Byzantine Empire"
+  },
+  {
+    "province": 188,
+    "name": "Cesarstwo Bizantyjskie XXXV",
+    "from": "Holy Roman Empire",
+    "to": "Byzantium",
+    "source": "Byzantine Empire"
+  },
+  {
+    "province": 276,
+    "name": "Żmudź",
+    "from": "Teutonic Order",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 277,
+    "name": "Żmudź B",
+    "from": "Teutonic Order",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 284,
+    "name": "Auksztota",
+    "from": "Teutonic Order",
+    "to": "Poland",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 285,
+    "name": "Polska i Litwa I",
+    "from": "Teutonic Order",
+    "to": "Poland",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 286,
+    "name": "Polska i Litwa II",
+    "from": "Teutonic Order",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 289,
+    "name": "Połock C",
+    "from": "Muscovy",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 291,
+    "name": "Połock E",
+    "from": "Muscovy",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 294,
+    "name": "Polska i Litwa V",
+    "from": "Teutonic Order",
+    "to": "Poland",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 296,
+    "name": "Polska i Litwa VII",
+    "from": "Teutonic Order",
+    "to": "Poland",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 297,
+    "name": "Polska i Litwa VIII",
+    "from": "Teutonic Order",
+    "to": "Poland",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 300,
+    "name": "Polska i Litwa X",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 302,
+    "name": "Polska i Litwa XII",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 304,
+    "name": "Polska i Litwa XIV",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 305,
+    "name": "Polska i Litwa XIV B",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 307,
+    "name": "Polska i Litwa XIV D",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 308,
+    "name": "Polska i Litwa XIV E",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 310,
+    "name": "Polska i Litwa XIV G",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 312,
+    "name": "Polska i Litwa XVI",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 313,
+    "name": "Polska i Litwa XVI B",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 316,
+    "name": "Polska i Litwa XVI E",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 317,
+    "name": "Polska i Litwa XVI F",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 324,
+    "name": "Polska i Litwa XXII",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 326,
+    "name": "Polska i Litwa XXIV",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 327,
+    "name": "Podole",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 328,
+    "name": "Polska i Litwa XXVI",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 329,
+    "name": "Polska i Litwa XXVI B",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 332,
+    "name": "Polska i Litwa XXIX",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 333,
+    "name": "Polska i Litwa XXX",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 334,
+    "name": "Czernihowszczyzna",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 335,
+    "name": "Czernihowszczyzna B",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 337,
+    "name": "Kijowszczyzna",
+    "from": "Moldavia",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 338,
+    "name": "Kijowszczyzna B",
+    "from": "Moldavia",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 339,
+    "name": "Kijowszczyzna C",
+    "from": "Moldavia",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 340,
+    "name": "Kijowszczyzna D",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 341,
+    "name": "Kijowszczyzna E",
+    "from": "Moldavia",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 342,
+    "name": "Kijowszczyzna F",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 343,
+    "name": "Kijowszczyzna G",
+    "from": "Moldavia",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 344,
+    "name": "Kijowszczyzna H",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 345,
+    "name": "Kijowszczyzna I",
+    "from": "Moldavia",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 346,
+    "name": "Polska i Litwa XXXIV",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 511,
+    "name": "Złota Orda XXXV",
+    "from": "Holy Roman Empire",
+    "to": "Golden Horde",
+    "source": "Blue Horde"
+  },
+  {
+    "province": 520,
+    "name": "Republika Nowogrodzka XLI",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 521,
+    "name": "Republika Nowogrodzka XLII",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 522,
+    "name": "Republika Nowogrodzka XLII B",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 523,
+    "name": "Republika Nowogrodzka XLIII",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 525,
+    "name": "Republika Nowogrodzka XLV",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 526,
+    "name": "Republika Nowogrodzka XLV B",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 528,
+    "name": "Wiatka",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 529,
+    "name": "Wiatka B",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 535,
+    "name": "Republika Nowogrodzka II",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 538,
+    "name": "Republika Nowogrodzka V",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 539,
+    "name": "Republika Nowogrodzka V B",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 543,
+    "name": "Republika Nowogrodzka IX",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 545,
+    "name": "Republika Nowogrodzka XII",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 547,
+    "name": "Republika Nowogrodzka XIV",
+    "from": "Novgorod",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 548,
+    "name": "Republika Nowogrodzka XV",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 549,
+    "name": "Republika Nowogrodzka XVI",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 551,
+    "name": "Republika Nowogrodzka XVIII",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 552,
+    "name": "Republika Nowogrodzka XVIII B",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 554,
+    "name": "Republika Nowogrodzka XX",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 555,
+    "name": "Republika Nowogrodzka XXI",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 565,
+    "name": "Republika Nowogrodzka XXIV",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 567,
+    "name": "Republika Nowogrodzka XXVI",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 568,
+    "name": "Republika Nowogrodzka XXVII",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 571,
+    "name": "Wiatka Płn.",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 572,
+    "name": "Wiatka Płn. B",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 581,
+    "name": "Republika Nowogrodzka XXXII",
+    "from": "Golden Horde",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 583,
+    "name": "Republika Nowogrodzka XXXIV",
+    "from": "Lithuania",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 584,
+    "name": "Republika Nowogrodzka XXXV",
+    "from": "Lithuania",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 585,
+    "name": "Republika Nowogrodzka XXXVI",
+    "from": "Lithuania",
+    "to": "Novgorod",
+    "source": "Novgorod"
+  },
+  {
+    "province": 586,
+    "name": "Imperium Timurydów XXXVII",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 587,
+    "name": "Imperium Timurydów XXXVII B",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 588,
+    "name": "Imperium Timurydów XXXVIII",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 589,
+    "name": "Imperium Timurydów XXXVIII B",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 590,
+    "name": "Imperium Timurydów XXXIX",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 591,
+    "name": "Imperium Timurydów XXXIX B",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 592,
+    "name": "Imperium Timurydów XL",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 593,
+    "name": "Imperium Timurydów XLI",
+    "from": "Georgia",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 594,
+    "name": "Imperium Timurydów XLII",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 595,
+    "name": "Imperium Timurydów XLIII",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 596,
+    "name": "Imperium Timurydów XLIV",
+    "from": "Trebizond",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 597,
+    "name": "Imperium Timurydów XLV",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 598,
+    "name": "Imperium Timurydów 47",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 599,
+    "name": "Imperium Timurydów 48",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 600,
+    "name": "Imperium Timurydów 49",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 601,
+    "name": "Imperium Timurydów 50",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 602,
+    "name": "Imperium Timurydów 50 B",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 603,
+    "name": "Imperium Timurydów I",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 604,
+    "name": "Imperium Timurydów I",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 605,
+    "name": "Imperium Timurydów II",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 606,
+    "name": "Imperium Timurydów III",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 607,
+    "name": "Imperium Timurydów IV",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 608,
+    "name": "Imperium Timurydów V",
+    "from": "Ottomans",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 609,
+    "name": "Imperium Timurydów VI",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 610,
+    "name": "Imperium Timurydów VII",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 611,
+    "name": "Imperium Timurydów VIII",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 612,
+    "name": "Imperium Timurydów IX",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 613,
+    "name": "Imperium Timurydów X",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 614,
+    "name": "Imperium Timurydów X B",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 615,
+    "name": "Imperium Timurydów XI",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 616,
+    "name": "Imperium Timurydów XII",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 617,
+    "name": "Imperium Timurydów XIII",
+    "from": "Ottomans",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 618,
+    "name": "Imperium Timurydów XIII B",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 619,
+    "name": "Imperium Timurydów XIV",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 620,
+    "name": "Imperium Timurydów XV",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 621,
+    "name": "Imperium Timurydów XVI",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 622,
+    "name": "Imperium Timurydów XVI B",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 623,
+    "name": "Imperium Timurydów XVII",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 624,
+    "name": "Imperium Timurydów XVIII",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 625,
+    "name": "Imperium Timurydów XVIII B",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 626,
+    "name": "Imperium Timurydów XIX",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 627,
+    "name": "Imperium Timurydów XIX B",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 628,
+    "name": "Imperium Timurydów XX",
+    "from": "Holy Roman Empire",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 629,
+    "name": "Imperium Timurydów XXI",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 630,
+    "name": "Imperium Timurydów XXII",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 631,
+    "name": "Imperium Timurydów XXIII",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 632,
+    "name": "Imperium Timurydów XXIV",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 633,
+    "name": "Imperium Timurydów XXIV B",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 634,
+    "name": "Imperium Timurydów XXIV C",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 635,
+    "name": "Imperium Timurydów XXIV D",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 636,
+    "name": "Imperium Timurydów XXIV E",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 637,
+    "name": "Imperium Timurydów XXIV F",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 638,
+    "name": "Imperium Timurydów XXIV G",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 639,
+    "name": "Imperium Timurydów XXV",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 640,
+    "name": "Imperium Timurydów XXVI",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 641,
+    "name": "Imperium Timurydów XXVI B",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 642,
+    "name": "Imperium Timurydów XXVII",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 643,
+    "name": "Imperium Timurydów XXVIII",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 644,
+    "name": "Imperium Timurydów XXVIII B",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 645,
+    "name": "Imperium Timurydów XXVIII C",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 646,
+    "name": "Imperium Timurydów XXVIII D",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 647,
+    "name": "Imperium Timurydów XXVIII E",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 648,
+    "name": "Imperium Timurydów XXVIII F",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 649,
+    "name": "Imperium Timurydów XXIX",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 650,
+    "name": "Imperium Timurydów XXX",
+    "from": "Mamluks",
+    "to": "Timurid Empire",
+    "source": "Timurid Empire"
+  },
+  {
+    "province": 651,
+    "name": "Biała Orda XXXI",
+    "from": "Golden Horde",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 652,
+    "name": "Biała Orda XXXI B",
+    "from": "Golden Horde",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 653,
+    "name": "Biała Orda XXXII",
+    "from": "Golden Horde",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 654,
+    "name": "Biała Orda XXXIII",
+    "from": "Golden Horde",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 655,
+    "name": "Biała Orda XXXIV",
+    "from": "Golden Horde",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 656,
+    "name": "Biała Orda XXXV",
+    "from": "Golden Horde",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 657,
+    "name": "Biała Orda XXXVI",
+    "from": "Golden Horde",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 713,
+    "name": "Biała Orda XIX",
+    "from": "Holy Roman Empire",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 714,
+    "name": "Biała Orda XX",
+    "from": "Holy Roman Empire",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 715,
+    "name": "Biała Orda XXI",
+    "from": "Holy Roman Empire",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 716,
+    "name": "Biała Orda XXII",
+    "from": "Holy Roman Empire",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 717,
+    "name": "Biała Orda XXIII",
+    "from": "Holy Roman Empire",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 718,
+    "name": "Biała Orda XXIV",
+    "from": "Holy Roman Empire",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 719,
+    "name": "Biała Orda XXV",
+    "from": "Holy Roman Empire",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 722,
+    "name": "Norrland",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 723,
+    "name": "Norrland B",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 724,
+    "name": "Norrland C",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 725,
+    "name": "Norrland D",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 726,
+    "name": "Norrland E",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 727,
+    "name": "Norrland F",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 728,
+    "name": "Norrland G",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 729,
+    "name": "Norrland H",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 730,
+    "name": "Norrland I",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 731,
+    "name": "Unia Kalmarska XXVIII",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 732,
+    "name": "Unia Kalmarska XXIX",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 735,
+    "name": "Unia Kalmarska XXXII",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 736,
+    "name": "Unia Kalmarska XXXII B",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 737,
+    "name": "Dalarna",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 738,
+    "name": "Dalarna B",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 739,
+    "name": "Dalarna C",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 740,
+    "name": "Dalarna D",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 741,
+    "name": "Dalarna E",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 742,
+    "name": "Dalarna F",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 747,
+    "name": "Unia Kalmarska XXXVIII",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 748,
+    "name": "Unia Kalmarska XXXIX",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 749,
+    "name": "Unia Kalmarska XL",
+    "from": "France",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 750,
+    "name": "Unia Kalmarska XLI",
+    "from": "France",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 751,
+    "name": "Unia Kalmarska XLII",
+    "from": "France",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 752,
+    "name": "Unia Kalmarska XLIII",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 753,
+    "name": "Unia Kalmarska XLIV",
+    "from": "Novgorod",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 754,
+    "name": "Unia Kalmarska XLIV B",
+    "from": "Novgorod",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 755,
+    "name": "Unia Kalmarska XLV",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 756,
+    "name": "Unia Kalmarska 47",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 757,
+    "name": "Unia Kalmarska 48",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 758,
+    "name": "Unia Kalmarska 49",
+    "from": "Sami",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 761,
+    "name": "Unia Kalmarska I",
+    "from": "France",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 763,
+    "name": "Unia Kalmarska III",
+    "from": "Novgorod",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 764,
+    "name": "Unia Kalmarska IV",
+    "from": "France",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 766,
+    "name": "Unia Kalmarska VI",
+    "from": "Novgorod",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 767,
+    "name": "Unia Kalmarska VII",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 768,
+    "name": "Unia Kalmarska VIII",
+    "from": "Novgorod",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 769,
+    "name": "Unia Kalmarska IX",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 770,
+    "name": "Unia Kalmarska X",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 771,
+    "name": "Unia Kalmarska X B",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 772,
+    "name": "Unia Kalmarska XI",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 784,
+    "name": "Unia Kalmarska XV",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 785,
+    "name": "Unia Kalmarska XVI",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 787,
+    "name": "Svealand",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 788,
+    "name": "Svealand B",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 789,
+    "name": "Unia Kalmarska XIX",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 790,
+    "name": "Unia Kalmarska XX",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 791,
+    "name": "Unia Kalmarska XXI",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 792,
+    "name": "Unia Kalmarska XXII",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 793,
+    "name": "Unia Kalmarska XXIII",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 794,
+    "name": "Unia Kalmarska XXIV",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 795,
+    "name": "Unia Kalmarska XXV",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 796,
+    "name": "Unia Kalmarska XXVI",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 797,
+    "name": "Unia Kalmarska XXVII",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 799,
+    "name": "Unia Kalmarska XXIX",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 801,
+    "name": "Unia Kalmarska XXXI",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 802,
+    "name": "Unia Kalmarska XXXII",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 803,
+    "name": "Unia Kalmarska XXXIII",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 804,
+    "name": "Unia Kalmarska XXXIV",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 805,
+    "name": "Unia Kalmarska XXXV",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 807,
+    "name": "Unia Kalmarska XXXVII",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 808,
+    "name": "Unia Kalmarska XXXVIII",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 809,
+    "name": "Unia Kalmarska XXXIX",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 810,
+    "name": "Unia Kalmarska XL",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 812,
+    "name": "Götaland",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 813,
+    "name": "Unia Kalmarska XLIII",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 815,
+    "name": "Unia Kalmarska XLV",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 816,
+    "name": "Unia Kalmarska 47",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 817,
+    "name": "Unia Kalmarska 48",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 819,
+    "name": "Skania",
+    "from": "Mecklenburg",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 820,
+    "name": "Zelandia",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 821,
+    "name": "Unia Kalmarska I",
+    "from": "Poland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 822,
+    "name": "Lolland",
+    "from": "Mecklenburg",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 823,
+    "name": "Syberia (plemiona) III",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 824,
+    "name": "Syberia (plemiona) III B",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 825,
+    "name": "Syberia (plemiona) IV",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 826,
+    "name": "Syberia (plemiona) V",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 827,
+    "name": "Syberia (plemiona) VI",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 828,
+    "name": "Syberia (plemiona) VII",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 829,
+    "name": "Syberia (plemiona) VIII",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 830,
+    "name": "Syberia (plemiona) IX",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 831,
+    "name": "Syberia (plemiona) X",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 832,
+    "name": "Syberia (plemiona) XI",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 833,
+    "name": "Syberia (plemiona) XII",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 834,
+    "name": "Syberia (plemiona) XII B",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 835,
+    "name": "Syberia (plemiona) XIII",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 836,
+    "name": "Syberia (plemiona) XIII B",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 837,
+    "name": "Syberia (plemiona) XIV",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 838,
+    "name": "Syberia (plemiona) XV",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 839,
+    "name": "Syberia (plemiona) XV B",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 840,
+    "name": "Syberia (plemiona) XVI",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 841,
+    "name": "Syberia (plemiona) XVII",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 842,
+    "name": "Syberia (plemiona) XVIII",
+    "from": "Golden Horde",
+    "to": "Siberians",
+    "source": "Siberians"
+  },
+  {
+    "province": 843,
+    "name": "Unia Kalmarska XL — wyspa 1",
+    "from": "France",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 844,
+    "name": "Unia Kalmarska I — wyspa 1",
+    "from": "France",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 845,
+    "name": "Unia Kalmarska XXXIV — wyspa 1",
+    "from": "Scotland",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 846,
+    "name": "Unia Kalmarska 48 — wyspa 1",
+    "from": "Holy Roman Empire",
+    "to": "Kalmar Union",
+    "source": "Kalmar Union"
+  },
+  {
+    "province": 852,
+    "name": "Połock E — wyspa 1",
+    "from": "Muscovy",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 854,
+    "name": "Czernihowszczyzna B — wyspa 2",
+    "from": "Golden Horde",
+    "to": "Lithuania",
+    "source": "Poland-Lithuania"
+  },
+  {
+    "province": 857,
+    "name": "Biała Orda XIX — wyspa 1",
+    "from": "Holy Roman Empire",
+    "to": "White Horde",
+    "source": "White Horde"
+  },
+  {
+    "province": 865,
+    "name": "Francja XIX — wyspa 1",
+    "from": "Aragon",
+    "to": "France",
+    "source": "France"
+  },
+  {
+    "province": 866,
+    "name": "Francja XIX — wyspa 2",
+    "from": "Aragon",
+    "to": "France",
+    "source": "France"
+  },
+  {
+    "province": 868,
+    "name": "León — wyspa 1",
+    "from": "Portugal",
+    "to": "Castile",
+    "source": "Castile"
+  },
+  {
+    "province": 870,
+    "name": "Ronda — wyspa 1",
+    "from": "Castile",
+    "to": "Granada",
+    "source": "Granada"
+  }
+]

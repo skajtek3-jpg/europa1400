@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="data:,">
+<title>Europa 1400 — Fronty i prowincje</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+  <canvas id="map"></canvas>
+  <div id="map-zoom-controls" aria-label="Sterowanie przybliżeniem mapy">
+    <button id="map-zoom-in" type="button" title="Przybliż (+)" aria-label="Przybliż">+</button>
+    <button id="map-zoom-out" type="button" title="Oddal (-)" aria-label="Oddal">−</button>
+    <button id="map-zoom-reset" type="button" title="Pokaż całą mapę (0)" aria-label="Resetuj zoom">⌂</button>
+  </div>
+
+  <div id="hud">
+    <div id="topbar" class="hidden">
+      <div class="tb-group" id="tb-country"></div>
+      <div class="tb-group" id="tb-date"></div>
+      <div class="tb-group tb-speed" id="tb-speed"></div>
+      <div class="tb-group" id="tb-economy"></div>
+      <div class="tb-group tb-buttons">
+        <button class="btn" id="btn-fulldiplo" title="Relacje, sojusze, wasalizacje i wojny">Pełna dyplomacja</button>
+        <button class="btn" id="btn-diplo" title="Dyplomacja (D)">Dyplomacja</button>
+        <button class="btn" id="btn-mapmode" title="Tryb mapy (M)">Mapa: polityczna</button>
+        <button class="btn" id="btn-peace" style="display:none">Negocjuj pokój</button>
+        <button class="btn" id="btn-help">Pomoc</button>
+        <button class="btn btn-icon" id="btn-sound" title="Dźwięk">♪</button>
+      </div>
+    </div>
+
+    <div id="warbar" class="hidden"></div>
+    <div id="sidepanel" class="hidden"></div>
+    <div id="offers"></div>
+    <div id="legend" class="hidden"></div>
+    <div id="log"></div>
+    <div id="tooltip"></div>
+    <div id="debug"></div>
+  </div>
+
+  <div id="start-screen" class="screen">
+    <div class="start-inner">
+      <h1>EUROPA 1400</h1>
+      <p id="build-tag" style="opacity:.7;font-size:12px;margin:2px 0 10px">FRONTY I PROWINCJE · WERSJA 2.0 · 14.11.2026</p>
+      <p class="start-sub">Europa u progu XV wieku. Wybierz państwo i poprowadź kampanię.<br>Manewruj wojskami, przełamuj front i ustalaj nowe granice w traktatach.</p>
+      <p class="start-hint">Wybierz państwo, którym będziesz grać</p>
+      <div id="start-countries"></div>
+      <p class="start-note">Granice państw: aourednik/historical-basemaps (1400). Prowincje wygenerowane proceduralnie.</p>
+    </div>
+  </div>
+
+  <div id="command-status">EUROPA 1400 · ATLAS OPERACYJNY</div>
+  <div id="peace-ui"></div>
+  <div id="modal-root"></div>
+</div>
+<script type="module" src="js/main.mjs"></script>
+</body>
+</html>

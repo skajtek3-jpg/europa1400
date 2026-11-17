@@ -1,0 +1,98 @@
+EUROPA 1400 — RAPORT ZMIAN 2.0
+14.11.2026
+
+WYGLĄD
+- Mapa i interfejs w stylistyce inspirowanej Hearts of Iron IV: ciemne
+  panele, stonowane kolory, niebieskie morze, cieniowanie terenu.
+- Osobne prostokątne znaczniki jednostek: symbol piechoty, narodowy kolor,
+  liczebność, morale i stan osobowy. Wróg nie jest łączony ze swoją armią.
+- Cienkie granice prowincji, granice państw i aktywne linie frontu.
+- Strzałki rozkazów, procentowy wskaźnik siły w bitwie, paskowanie okupacji
+  i odcięcia od zaopatrzenia. Jawne przeprawy morskie widoczne po wyborze prowincji.
+- Trzy tryby mapy. Znaczniki zachowują rozmiar i obszar kliknięcia przy zoomie.
+- Brak zewnętrznych fontów i zasobów potrzebnych do uruchomienia.
+
+KONTROLA PROWINCJI I WALKA
+- Usunięto sprzeczne systemy kontroli pikseli oraz kontroli prowincji.
+  Cała prowincja ma jeden kontrolujący kraj; raster zawsze go odwzorowuje.
+- Wejście do pustej wrogiej prowincji zajmuje ją; nie ma automatycznego
+  odzyskiwania terenu po 25 dniach bez okupanta.
+- Własne i sojusznicze terytorium można wyzwolić.
+- Atak na bronioną prowincję rozpoczyna się z sąsiedniego pola i blokuje ruch.
+  Wsparcie nie przesuwa się do celu po zakończeniu bitwy.
+- Poprawiono odwrót: wyłącznie do przyjaznego sąsiedztwa bez wroga.
+  Bez wyjścia armia kapituluje. Usunięto teleportowanie przez neutralne kraje.
+- Morale regeneruje się poza walką; rezerwy uzupełniają stan osobowy.
+- Odcięcie od zaplecza liczone po grafie przyjaznej kontroli. Neutralna
+  granica i przypadkowy brzeg morza nie zapewniają już zaopatrzenia.
+
+MAPA
+- Przed naprawą 98 prowincji miało rozłączone obszary.
+- Scalono 103 drobne fragmenty, wydzielono 35 osobnych obszarów wysp
+  i uzupełniono 27 komórek będących drobnymi zamkniętymi dziurami.
+- Wynik: 877 spójnych prowincji. Każda ma punkt jednostek na swoim lądzie.
+- Skorygowano 308 przypisań właściciela na podstawie dołączonej geometrii
+  historycznej. Usunięto m.in. przypadkowe władztwo HRE w Skandynawii
+  i na ziemiach Timurydów. Zachowano część wcześniejszych podziałów regionalnych.
+- Przywrócono definicje Timurydów, Korsyki, Aydinu, Seldżuków i Syberii.
+  Dane mają 57 definicji państw, z czego 56 posiada prowincje i jest grywalne.
+- Nazwy prowincji są unikalne. Wygenerowane okręgi oznaczono jako okręgi,
+  zamiast pozostawiać mylące nazwy innego państwa i duplikaty.
+- Naprawiono brakujące połączenia Sycylii i Wysp Owczych. Wszystkie
+  prowincje są osiągalne po sieci lądu i jawnych, uproszczonych przepraw.
+- Szczegółowe wykazy napraw: data/map-repair-report.json oraz
+  data/ownership-repair-report.json.
+
+KOD I NIEDOKOŃCZONE ELEMENTY
+- Naprawiono wywołanie akcji dyplomacji z błędną liczbą argumentów.
+- Ukończono wybór prowincji i reparacji w traktacie, wybór wojny oraz
+  walidację żądań. Wcześniej okno udostępniało wyłącznie biały pokój.
+- Pokój usuwa okupację zgodnie z trwającymi wojnami, odświeża stolicę,
+  listy prowincji i istnienie państw; daje rozejm.
+- Wynik wojny uwzględnia aktualną kontrolę, a nie nieskończone naliczanie
+  punktów za ponowne zajmowanie tej samej prowincji.
+- Przywrócono wyświetlanie i obsługę ofert SI.
+- Marsz wybiera krótszą czasowo drogę, bez pustego kroku w miejscu startu.
+- Kolejka rozkazów korzysta z ostatniego celu. Utrata prawa przemarszu
+  zatrzymuje jednostkę przed wejściem na niedostępne terytorium.
+- Rekrutacja odbywa się w wybranej prowincji. Podział i łączenie
+  zachowują liczebność i docelową wielkość jednostek.
+- Naprawiono zaznaczanie znaczników, blokadę skrótów podczas pisania,
+  pozycję paska wojny, odtwarzanie dźwięku po ponownym włączeniu oraz
+  dobór portów dla odizolowanych wysp.
+- Usunięto skanowanie wszystkich komórek mapy przy każdej etykiecie
+  w każdej klatce. Mapa przebudowuje się po zmianie kontroli lub trybu.
+- Dodano samodzielny GRA.html oraz uruchamianie serwera z dowolnego katalogu.
+
+WERYFIKACJA
+- 20 testów automatycznych zakończonych powodzeniem, w tym symulacja
+  trzyletniej kampanii (1095 dni) z SI i rzeczywistą gospodarką.
+- Sprawdzono spójność prowincji, sąsiedztwo, kotwice jednostek, poprawność
+  kontroli rastra, połączenia morskie i brak NaN w danych symulacji.
+- Wykonano renderowanie mapy Europy, zbliżenia Polski oraz bitwy
+  przez backend Canvas, a także sprawdzenie trafiania w znaczniki.
+- Dodatkowy test zdarzeń interfejsu w adapterze DOM sprawdził wybór
+  prowincji, dyplomację, rekrutację, okno pokoju, pomoc i tryb mapy.
+- Sprawdzono składnię modułów i kompletność samodzielnego pakietu.
+- Interfejsu nie udało się uruchomić w dostępnej przeglądarce testowej.
+  Testy Canvas i logiki nie zastępują testu klikania całego interfejsu
+  w docelowym Firefox/Chrome/Edge; nie deklaruję takiego testu.
+
+POZOSTAŁE OGRANICZENIA
+- Gra jest prototypem 2D, ze stylistyką inspirowaną HOI4. Nie zawiera
+  silnika 3D, modeli ani innych plików graficznych z Hearts of Iron IV.
+- Granice z roku 1400, teren i podział na prowincje są przybliżeniem.
+  Naprawa spójności i przypisań nie jest pełnym audytem historycznym.
+- Przeprawy zastępują pełną flotę, desanty i konwoje. Zaopatrzenie ma
+  uproszczony model połączenia z zapleczem, bez magazynów i przepustowości.
+- Nie ma zapisu/odczytu kampanii, rozgrywki sieciowej, pełnej automatyki
+  planów ofensywnych, lotnictwa ani produkcji sprzętu. Odświeżenie strony
+  rozpoczyna nową grę. Te systemy pozostają poza zakresem tej wersji.
+
+TESTY DLA PROGRAMISTY
+node --test tests/*.test.mjs
+node tools/build_portable.mjs
+Test renderera (opcjonalnie, wymaga @napi-rs/canvas): node tests/render-check.mjs
+Narzędzia repair_* to jednorazowe migracje danych; nie uruchamiaj ich
+ponownie na poprawionej mapie bez kopii. build_provinces.mjs to pierwotny
+proceduralny generator bazowy, nie odtwarza ręcznych podziałów obecnej mapy.

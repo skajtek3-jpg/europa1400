@@ -1,0 +1,41 @@
+TUTORIAL FOR OPENING THE FUCKING GAME | THIS IS PROBABLY THE WORST GAME EVER SO I DONT RECOMMEND PLAYING IT
+
+             Windows
+
+Step 1: install the game and extract it.
+
+you already did.
+
+step 2: open the game folder in terminal
+1. right click it
+2. choose the option that opens it in terminal
+3. in the terminal type: "py -3 serve.py" or "python serve.py"
+
+Step 2: open yur browser
+1. in yur broser type "http://localhost:8000/"
+
+
+
+             Linux
+
+Step 1: install the game and extract it.
+
+you already did.
+
+step 2: open the game folder in terminal
+1. right click it
+2. choose the option that opens it in terminal
+3. in the terminal type: "py -3 serve.py" or "python serve.py"
+
+Step 2: open yur browser
+1. in yur broser type "http://localhost:8000/"
+
+
+
+
+          Jak wyłączyć grę?
+
+Na obu systemach:
+- Wróć do terminala.
+- Naciśnij Ctrl + C.
+- Serwer zostanie zatrzymany.

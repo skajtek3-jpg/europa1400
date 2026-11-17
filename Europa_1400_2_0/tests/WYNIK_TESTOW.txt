@@ -1,0 +1,30 @@
+Kampania: 1096 dni, 120 armii, 7 wojen; 1 komponentów po przeprawach.
+✔ trzyletnia kampania na pełnej mapie: ekonomia, AI, wojny i integralność (1135.857719ms)
+AUDYT MAPY: 877 prowincji; 57 państw; 0 rozłącznych prowincji
+✔ ścieżka bez pustego kroku i po najkrótszym czasie (10.783922ms)
+✔ marsz zajmuje pustą prowincję, także z fortem; kolor zgodny z kontrolą (25.482085ms)
+✔ okupacja nie znika po odejściu wojska (4.843971ms)
+✔ własna prowincja jest wyzwalana po wejściu (2.199602ms)
+✔ bitwa toczy się przed wejściem; wsparcie nie okupuje (8.842843ms)
+✔ zwycięski atak wkracza i zajmuje po pokonaniu obrońcy (7.59447ms)
+✔ neutralna armia w prowincji nie blokuje wykrycia wrogów (4.765262ms)
+✔ kolejka ma punkty docelowe i nie wraca do starego końca (3.488483ms)
+✔ utrata prawa przejścia przerywa wydany rozkaz (2.29627ms)
+✔ morale wraca po bitwie i rezerwy uzupełniają straty (2.064851ms)
+✔ biały pokój cofa okupację i raster, daje rozejm (3.788355ms)
+✔ pełna okupacja daje warunki do przejęcia kraju, odświeża stolicę (19.212994ms)
+✔ traktat odrzuca obce identyfikatory i ujemne reparacje (8.524588ms)
+✔ dyplomacja przyjmuje prawidłowe argumenty i odrzuca błędne (6.154582ms)
+✔ podział i scalanie zachowują stan docelowy i ludzi (4.015163ms)
+✔ rekrutacja w wybranej prowincji, walidacja ilości (1.904417ms)
+✔ zaopatrzenie nie przechodzi przez neutralną granicę (1.784286ms)
+✔ cała mapa: komórki, połączenia i kontrola po rocznej symulacji (717.097289ms)
+✔ UI: start, wybór prowincji, dyplomacja, rekrutacja, pokój i pomoc (365.61335ms)
+ℹ tests 20
+ℹ suites 0
+ℹ pass 20
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1274.41046
